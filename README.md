@@ -13,7 +13,7 @@
 
 0xGuard is a modern, interactive password strength checker designed for developers, security enthusiasts, and anyone who cares about online safety. The system provides real-time feedback, visually stunning neon-style animations, and a dynamic strength bar to help users create strong, secure passwords.
 
-![Dashboard Preview](0xGuard/Assets/overview.png)
+![Dashboard Preview](https://github.com/adityanarayanjha2007-alt/LockLogic/blob/9cbdc0e67f99b87802c883b1563332f42a3d3a09/overview.png)
 
 ## ✨ Key Features
 
@@ -72,4 +72,5 @@ This project is licensed under the [MIT License](LICENSE).
 <br>
 <div align="center"> Made with 💌  by Gautam | © 2025 Cybersecurity.
   </div>
+
 
