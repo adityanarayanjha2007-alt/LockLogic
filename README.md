@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Status-Completed-gree?style=flat&logo=github" alt="Status">
 <!-- [![Render Deployment Status](https://api.render.com/deploy/srv-d26cvvffte5s73enuqs0?type=badge)](https://ev-demand-forecast.onrender.com) -->
 
-Deployed live on Netlify: [https://0xguard.netlify.app/](https://0xguard.netlify.app/)
+Deployed live on Netlify: [https://0xguard.netlify.app/](https://locklogic.netlify.app/)
 
 ## 💻 Local Setup
 Follow these instructions to set up the project locally.
@@ -72,6 +72,7 @@ This project is licensed under the [MIT License](LICENSE).
 <br>
 <div align="center"> Made with 💌  by Gautam | © 2025 Cybersecurity.
   </div>
+
 
 
 
