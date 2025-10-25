@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="height:150px;" src="0xGuard/Assets/logo.jpg" alt="EV Forecast Dashboard">
+  <img style="height:150px;" src="https://github.com/adityanarayanjha2007-alt/LockLogic/blob/6b8e0fdd5889b1d59b4ec9e1a1bf8b8cd10e5430/logo.jpg" alt="LOGO">
   <h1> 🔒 0xGuard Password Strength Checker </h1>
   <p><em> A Data-Driven System to Evaluate Password Strength with Neon UI Animations and Optional Backend Analytics. </em></p>
   
@@ -72,5 +72,6 @@ This project is licensed under the [MIT License](LICENSE).
 <br>
 <div align="center"> Made with 💌  by Gautam | © 2025 Cybersecurity.
   </div>
+
 
 
